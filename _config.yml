@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Gils
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -12,8 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: SungGil Cho
+  tagline: Developer. iOS
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -26,20 +26,20 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+    #twitter: samarsault
+    github:  https://github.com/SunggilCho
+    #linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
-    #instagram: jekyll
+    instagram: https://instagram.com/sunggil_cho?igshid=1a2zv1cw3254g
     #pinterest: jekyll
     #youtube: jekyll
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    #email: jekyll
+    email: sunggil0514@gmail.com
 
     # Mastodon instances
     # mastodon:
